@@ -4,7 +4,7 @@ package studentlistlive;
 /**
  * This class creates an array of Student Objects
  * and prints out their names 
- * @author Liz Dancy,May 27 2021
+ * @author Liz Dancy,May 27 2021 changed in class
  */
 public class StudentListLive {
 
